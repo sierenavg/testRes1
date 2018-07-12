@@ -1,0 +1,102 @@
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe.config
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Release\ABB.PCSdk.Install.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Release\ABB.Robotics.Adapters.IRC5.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Release\ABB.Robotics.Controllers.Configuration.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Release\ABB.Robotics.Controllers.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Release\ABB.Robotics.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csprojResolveAssemblyReference.cache
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.Form1.resources
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.Properties.Resources.resources
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csproj.GenerateResource.Cache
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe.config
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\bin\Release\ABB.PCSdk.Install.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\bin\Release\ABB.Robotics.Adapters.IRC5.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\bin\Release\ABB.Robotics.Controllers.Configuration.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\bin\Release\ABB.Robotics.Controllers.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\bin\Release\ABB.Robotics.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csprojResolveAssemblyReference.cache
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.Form1.resources
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.Properties.Resources.resources
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csproj.GenerateResource.Cache
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe.config
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.Form1.resources
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.Properties.Resources.resources
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csproj.GenerateResource.Cache
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\bin\Release\ABB.Robotics.Adapters.IRC5.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\bin\Release\ABB.Robotics.Controllers.Configuration.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\bin\Release\ABB.Robotics.Controllers.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\bin\Release\ABB.Robotics.dll
+C:\Users\erichou\Desktop\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe.config
+C:\Users\erichou\Desktop\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\Users\erichou\Desktop\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\Users\erichou\Desktop\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\Users\erichou\Desktop\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\bin\Release\ABB.Robotics.Controllers.PC.dll
+C:\Users\erichou\Desktop\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\bin\Release\RobotStudio.Services.RobApi.Desktop.dll
+C:\Users\erichou\Desktop\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\bin\Release\RobotStudio.Services.RobApi.dll
+C:\Users\erichou\Desktop\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csprojResolveAssemblyReference.cache
+C:\Users\erichou\Desktop\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.Form1.resources
+C:\Users\erichou\Desktop\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.Properties.Resources.resources
+C:\Users\erichou\Desktop\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csproj.GenerateResource.Cache
+C:\Users\erichou\Desktop\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+D:\ABB\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe.config
+D:\ABB\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.exe
+D:\ABB\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+D:\ABB\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe
+D:\ABB\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+D:\ABB\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\bin\Release\ABB.Robotics.Controllers.PC.dll
+D:\ABB\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\bin\Release\RobotStudio.Services.RobApi.Desktop.dll
+D:\ABB\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\bin\Release\RobotStudio.Services.RobApi.dll
+D:\ABB\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csprojResolveAssemblyReference.cache
+D:\ABB\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.Form1.resources
+D:\ABB\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.Properties.Resources.resources
+D:\ABB\ABB\PC SDK 2015-02-06 PCSDK training package\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csproj.GenerateResource.Cache
+C:\Users\erichou\Desktop\巨大新案\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe.config
+C:\Users\erichou\Desktop\巨大新案\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\Users\erichou\Desktop\巨大新案\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\Users\erichou\Desktop\巨大新案\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\Users\erichou\Desktop\巨大新案\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\Users\erichou\Desktop\巨大新案\C# 64 bit\PCSDK_CSharp\bin\Release\ABB.Robotics.Controllers.PC.dll
+C:\Users\erichou\Desktop\巨大新案\C# 64 bit\PCSDK_CSharp\bin\Release\RobotStudio.Services.RobApi.Desktop.dll
+C:\Users\erichou\Desktop\巨大新案\C# 64 bit\PCSDK_CSharp\bin\Release\RobotStudio.Services.RobApi.dll
+C:\Users\erichou\Desktop\巨大新案\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csprojResolveAssemblyReference.cache
+C:\Users\erichou\Desktop\巨大新案\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.Form1.resources
+C:\Users\erichou\Desktop\巨大新案\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.Properties.Resources.resources
+C:\Users\erichou\Desktop\巨大新案\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe.config
+C:\Users\USER\Desktop\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\Users\USER\Desktop\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\Users\USER\Desktop\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\Users\USER\Desktop\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\Users\USER\Desktop\C# 64 bit\PCSDK_CSharp\bin\Release\ABB.Robotics.Controllers.PC.dll
+C:\Users\USER\Desktop\C# 64 bit\PCSDK_CSharp\bin\Release\RobotStudio.Services.RobApi.Desktop.dll
+C:\Users\USER\Desktop\C# 64 bit\PCSDK_CSharp\bin\Release\RobotStudio.Services.RobApi.dll
+C:\Users\USER\Desktop\C# 64 bit\PCSDK_CSharp\obj\x86\Release\MIC.Giant.Form1.resources
+C:\Users\USER\Desktop\C# 64 bit\PCSDK_CSharp\obj\x86\Release\MIC.Giant.Properties.Resources.resources
+C:\Users\USER\Desktop\C# 64 bit\PCSDK_CSharp\obj\x86\Release\MIC.Giant.FormWarningSign.resources
+C:\Users\erichou\Desktop\巨大新案\巨大\巨大專案測試\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe.config
+C:\Users\erichou\Desktop\巨大新案\巨大\巨大專案測試\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\Users\erichou\Desktop\巨大新案\巨大\巨大專案測試\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\Users\erichou\Desktop\巨大新案\巨大\巨大專案測試\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\Users\erichou\Desktop\巨大新案\巨大\巨大專案測試\C# 64 bit\PCSDK_CSharp\bin\Release\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\Users\erichou\Desktop\巨大新案\巨大\巨大專案測試\C# 64 bit\PCSDK_CSharp\bin\Release\ABB.Robotics.Controllers.PC.dll
+C:\Users\erichou\Desktop\巨大新案\巨大\巨大專案測試\C# 64 bit\PCSDK_CSharp\bin\Release\RobotStudio.Services.RobApi.Desktop.dll
+C:\Users\erichou\Desktop\巨大新案\巨大\巨大專案測試\C# 64 bit\PCSDK_CSharp\bin\Release\RobotStudio.Services.RobApi.dll
+C:\Users\erichou\Desktop\巨大新案\巨大\巨大專案測試\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csprojResolveAssemblyReference.cache
+C:\Users\erichou\Desktop\巨大新案\巨大\巨大專案測試\C# 64 bit\PCSDK_CSharp\obj\x86\Release\MIC.Giant.Form1.resources
+C:\Users\erichou\Desktop\巨大新案\巨大\巨大專案測試\C# 64 bit\PCSDK_CSharp\obj\x86\Release\MIC.Giant.FormWarningSign.resources
+C:\Users\erichou\Desktop\巨大新案\巨大\巨大專案測試\C# 64 bit\PCSDK_CSharp\obj\x86\Release\MIC.Giant.Properties.Resources.resources
+C:\Users\erichou\Desktop\巨大新案\巨大\巨大專案測試\C# 64 bit\PCSDK_CSharp\obj\x86\Release\PCSDK_Csharp_BasicScanApp_514.csproj.GenerateResource.Cache

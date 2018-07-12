@@ -1,0 +1,7 @@
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\bin\x64\Release\PCSDK_Csharp_BasicScanApp_514.exe.config
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\bin\x64\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\obj\x64\Release\PCSDK_Csharp_BasicScanApp_514.Form1.resources
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\obj\x64\Release\PCSDK_Csharp_BasicScanApp_514.Properties.Resources.resources
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\obj\x64\Release\PCSDK_Csharp_BasicScanApp_514.csproj.GenerateResource.Cache
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\obj\x64\Release\PCSDK_Csharp_BasicScanApp_514.exe
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06 PCSDK training package\C#\PCSDK_CSharp\obj\x64\Release\PCSDK_Csharp_BasicScanApp_514.csprojResolveAssemblyReference.cache

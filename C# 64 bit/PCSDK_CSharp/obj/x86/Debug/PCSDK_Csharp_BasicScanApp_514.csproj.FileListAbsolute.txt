@@ -1,0 +1,16 @@
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Debug\PCSDK_Csharp_BasicScanApp_514.exe.config
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Debug\PCSDK_Csharp_BasicScanApp_514.exe
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Debug\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Debug\ABB.PCSdk.Install.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Debug\ABB.Robotics.Adapters.IRC5.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Debug\ABB.Robotics.Controllers.Configuration.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Debug\ABB.Robotics.Controllers.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\bin\Debug\ABB.Robotics.dll
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\obj\x86\Debug\PCSDK_Csharp_BasicScanApp_514.Form1.resources
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\obj\x86\Debug\PCSDK_Csharp_BasicScanApp_514.Properties.Resources.resources
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\obj\x86\Debug\PCSDK_Csharp_BasicScanApp_514.csproj.GenerateResource.Cache
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\obj\x86\Debug\PCSDK_Csharp_BasicScanApp_514.exe
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\New folder\C#\PCSDK_Csharp_BasicScanApp_514 - RAPID variable read write\obj\x86\Debug\PCSDK_Csharp_BasicScanApp_514.pdb
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\bin\Debug\PCSDK_Csharp_BasicScanApp_514.exe.config
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\obj\x86\Debug\PCSDK_Csharp_BasicScanApp_514.exe
+C:\ABB\ABB stuff\Reference & problem expreience\ROBOT IRC5 IRBXX\IRC5\PCSDK\PC SDK 2015-02-06\C#\PCSDK_CSharp\obj\x86\Debug\PCSDK_Csharp_BasicScanApp_514.pdb
