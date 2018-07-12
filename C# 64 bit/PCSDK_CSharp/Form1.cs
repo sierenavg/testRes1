@@ -1314,6 +1314,7 @@ namespace MIC.Giant
 
 
                 sw.Close();
+                int k = 11;
             }
         }
 
@@ -1321,8 +1322,7 @@ namespace MIC.Giant
         {
             FormWarningSign warningSign = new FormWarningSign();
            warningSign.Show();
-           int p = 1;
-           int g = 12;
+         
         }
      
 
